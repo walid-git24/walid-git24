@@ -24,6 +24,21 @@
 - AI Automation
 - Robotics
 
+## 🛠️ Tech Stack
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/DSA-1E88E5?style=for-the-badge&logo=codeforces&logoColor=white">
+  <img src="https://img.shields.io/badge/Problem_Solving-FF6F00?style=for-the-badge&logo=codeforces&logoColor=white">
+  <img src="https://img.shields.io/badge/Competitive_Programming-445f9d?style=for-the-badge&logo=codeforces&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+</p>
+
 🎯 What I'm Working Towards:
 
 Building a strong foundation in Computer Science, mastering modern technologies, and creating impactful products that combine software, automation, and intelligent systems.
