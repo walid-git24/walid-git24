@@ -1,16 +1,45 @@
-### Hi there 👋
+# Hi, I'm Walid 👋
 
+🎓 CSE Student | Lifelong Learner | Problem Solver
 
-**walid-git24/walid-git24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Curious about how technology shapes the future and passionate about building things that solve real problems. My goal is not only to learn technology but also to use it to build useful products and meaningful solutions.
 
-Here are some ideas to get you started:
+🚀 Interests:
+- Tech Entrepreneurship
+- Web Development
+- Software Development
+- Artificial Intelligence & AI Automation
+- Robotics & Intelligent Systems
+- Competitive Programming
+- Open Source
+- Linux & System Exploration
+- Entrepreneurship & Tech Innovation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+📚 Currently Learning:
+- C & C++
+- Data Structures and Algorithms
+- Git & GitHub
+- Problem Solving
+- AI Fundamentals
+- AI Automation
+- Robotics
 
+🎯 What I'm Working Towards:
+
+Building a strong foundation in Computer Science, mastering modern technologies, and creating impactful products that combine software, automation, and intelligent systems.
+
+🛠️ I Enjoy:
+
+- Turning ideas into projects
+- Exploring how systems work behind the scenes
+- Learning independently and consistently
+- Solving challenging problems
+- Experimenting with new technologies
+
+🌱 Current Mindset:
+
+ Learn. Build. Improve. Repeat.
+
+⚡ Fun Fact:
+
+ I often find myself exploring a new technology just because I wondered, "How does this actually work?"
