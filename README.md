@@ -43,3 +43,14 @@ Building a strong foundation in Computer Science, mastering modern technologies,
 ⚡ Fun Fact:
 
  I often find myself exploring a new technology just because I wondered, "How does this actually work?"
+
+ ## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=walid-git24&show_icons=true&theme=tokyonight" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walid-git24&layout=compact&theme=tokyonight" height="170">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=walid-git24&theme=tokyonight">
+</p>
