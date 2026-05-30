@@ -70,3 +70,41 @@ Building a strong foundation in Computer Science, mastering modern technologies,
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=walid-git24&theme=tokyonight">
 </p>
+
+
+## 🏅 Developer Journey
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open_Source-Enthusiast-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Competitive_Programming-Learner-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/AI_Automation-Explorer-purple?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Robotics-Interested-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Entrepreneurship-Aspiring-yellow?style=for-the-badge">
+</p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=walid-git24&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views">
+</p>
+
+> "Curiosity drives learning, learning drives building, and building creates impact."
+
+## 🚀 Let's Connect & Build Something Amazing
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/walid-alom">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  
+  <a href="https://www.facebook.com/walid.alom.1">
+    <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+  
+  <a href="mailto:walidalom2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  💡 Exploring AI • 🤖 Robotics • 💻 Software Development • 🚀 Entrepreneurship
+</p>
